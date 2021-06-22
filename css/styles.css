@@ -1,0 +1,42 @@
+body {
+  background-color: #4b4b4b;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 8rem;
+  color: teal;
+}
+
+div {
+  width: 1000px;
+}
+
+.playerName {
+  display: inline-block;
+  font-size: 2rem;
+  list-style: none;
+}
+
+.playerName p {
+  display: inline-block;
+  margin: 0px 120px;
+  color: white;
+}
+
+.playerDice {
+  display: inline-block;
+  list-style: none;
+}
+
+.playerDice img {
+  margin: 50px 50px;
+}
+
+button {
+  width: 200px;
+  height: 70px;
+  border-radius: 10px;
+  background-color: burlywood;
+}
